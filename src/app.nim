@@ -13,4 +13,4 @@ runForever()
 #  runForever() or runForever(1)
 # except:
 #  when getCurrentException().name == "SIGINT":
-#    echo "\nServer interrupted, shuting down..."
+#    echo "\nServer interrupted, shutting down..."
